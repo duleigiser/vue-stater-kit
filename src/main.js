@@ -10,7 +10,7 @@ Vue.config.productionTip = false
 Vue.use(infiniteScroll)
 Vue.use(AjaxPlugin)// 请求
 require('es6-promise').polyfill()
-/* eslint-disable no-new */
+
 new Vue({
   el: '#app',
   router,
