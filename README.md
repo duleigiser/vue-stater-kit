@@ -1,6 +1,6 @@
-# learning-career
+# starter-kit
 
-> 尚德机构 学习生涯 规划
+
 
 ## Build Setup
 
