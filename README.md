@@ -1,7 +1,10 @@
 # starter-kit
 
 
-
+## 更换远程仓库
+```
+ git remote set-url origin [url]
+```
 ## Build Setup
 
 ``` bash
